@@ -1,6 +1,5 @@
 # Python Essentials (exam PCEP-30-02)
 
---- 
 A place where I keep my solutions to the exercises from the material of the 
 Edeba course: Python Essentials (exam PCEP-30-02). Since this repository is public
 anyone can use it as a reference for a solution to some of the exercises.
