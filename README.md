@@ -8,6 +8,8 @@ I know a bit about python language, but I want to attempt the first official exa
 having a place when I can go to review the material and the exercises is a good idea. So I thought, since
 I'm doing it for myself, why not make it public so anyone can use it as well.
 
-The link for the course is [here](https://edube.org/study/pe1).
+The link for the free course in Edube is [here](https://edube.org/study/pe1).
+
+I'm doing an excellent course by Lydia Halie and you can find it [here](https://kodekloud.com/courses/python-entry-level-programmer-certification/).
 
 Also, this is the [link](https://pythoninstitute.org/pcep) for the exam.
