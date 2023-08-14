@@ -73,3 +73,32 @@ print(True or False)
 # not Logical NOT
 # Used to reverse the logical state of its operand
 print(not True)
+
+# Bitwise operators
+# & | ^ ~ << >>
+
+# & Bitwise AND (conjunction)
+x = 10  # 1010
+y = 4  # 0100
+print(bin(x))
+print(bin(y))
+print(10 & 4)  # 0000
+
+# | Bitwise OR (disjunction)
+print(10 | 4)  # 1110
+
+# ^ Bitwise XOR (exclusive disjunction)
+print(10 ^ 4)  # 1110
+
+# ~ Bitwise NOT (negation)
+print(~10)  # -11
+
+# Bit Shifting
+
+# << Bitwise left shift
+# Shifts the bits of the number to the left and fills 0 on voids left as a result
+print(10 << 2)  # 101000
+
+# >> Bitwise right shift
+# Shifts the bits of the number to the right and fills 0 on voids left as a result
+print(10 >> 2)  # 10
